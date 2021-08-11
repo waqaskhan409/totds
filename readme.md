@@ -1,6 +1,6 @@
 It's Assignment of **Tools and techniques in Datascience** where we need to manage the data from socket and REST APIs. 
 For this assignment I've used couple of things.
-1. Express.js/Node.js for managing data as a microservice or middleware between structure data and unstructure data.
+I'm using Express.js/Node.js for managing data as a microservice or middleware between structure data and unstructure data.
 requirement for installing this is:
   1. First thing first, you need to have [node.js](https://nodejs.org/en/) intalled
   2. Then, intall [express.js](https://expressjs.com/) on the top [node.js](https://nodejs.org/en/) for managing data and creating socket and REST APIs.
